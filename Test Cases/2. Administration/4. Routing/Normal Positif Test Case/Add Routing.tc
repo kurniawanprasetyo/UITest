@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Routing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2ab9b39-6d15-4515-9c5c-273d5b8a19e8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>708576d3-8f5d-48ff-af73-ae503e89fcff</id>
+      <masked>false</masked>
+      <name>ca_id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da249e03-c845-4cf7-8ef6-3b36a1f29a4d</id>
+      <masked>false</masked>
+      <name>feature</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bfaf3c1-5ccf-47a7-88e5-39bad5f73a0f</id>
+      <masked>false</masked>
+      <name>dest_id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e8acbb3-915c-42de-8601-1750dbfac95a</id>
+      <masked>false</masked>
+      <name>mitra</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40bf24a2-7644-4b82-8551-425aad96ad95</id>
+      <masked>false</masked>
+      <name>start_date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca435501-058a-461a-9583-bd23a0e96681</id>
+      <masked>false</masked>
+      <name>end_date</name>
+   </variable>
+</TestCaseEntity>

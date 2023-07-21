@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CA ID less than 6 Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0c2d8e2-fcd7-4c77-8512-453c2464a377</testCaseGuid>
+</TestCaseEntity>

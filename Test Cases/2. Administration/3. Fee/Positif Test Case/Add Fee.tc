@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Fee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ac1b2a5-0a1a-4ce1-8a51-65cdf524566d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9875187f-7c66-4460-b310-6456af613f41</id>
+      <masked>false</masked>
+      <name>ca_id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>edf94093-65f4-4ee7-ba3d-7fa5fa82a33d</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7347976c-a5cf-4221-b891-ddee34c93060</id>
+      <masked>false</masked>
+      <name>dest</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a17c9cc0-7acf-47b7-9569-164831d44fc9</id>
+      <masked>false</masked>
+      <name>tier</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84fb584e-79f2-43da-93e3-abaa48985d67</id>
+      <masked>false</masked>
+      <name>fee_max</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00ea2a41-17f4-4273-8541-81f68d2b9946</id>
+      <masked>false</masked>
+      <name>fee_usd</name>
+   </variable>
+</TestCaseEntity>

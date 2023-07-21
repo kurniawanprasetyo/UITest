@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NPWP less than 15 Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6d91b2-707c-454e-ac36-705773983624</testCaseGuid>
+</TestCaseEntity>

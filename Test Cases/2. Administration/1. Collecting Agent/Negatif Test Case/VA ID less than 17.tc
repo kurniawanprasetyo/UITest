@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VA ID less than 17</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d69846f1-67ac-42f1-b221-d5479e8853a0</testCaseGuid>
+</TestCaseEntity>

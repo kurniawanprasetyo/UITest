@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add CashIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3184ccb2-b8a1-428e-af95-269396bd6b7c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d745270-ebbf-46a6-896e-fc522b02a317</id>
+      <masked>false</masked>
+      <name>va_id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e484ed73-2805-42de-9eda-5f29c4be5ee7</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

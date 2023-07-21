@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Approved by Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42ef514e-d069-48c8-82c6-866058d921b3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>299dfd12-5dc7-40fa-8aa0-b72c19ac0550</id>
+      <masked>false</masked>
+      <name>va_id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f897779-f69b-48d5-9a37-981f2243b582</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

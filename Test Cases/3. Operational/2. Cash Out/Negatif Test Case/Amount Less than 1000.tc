@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amount Less than 1000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c958a5d-c999-4cb9-b334-c6ac2d0d33db</testCaseGuid>
+</TestCaseEntity>
