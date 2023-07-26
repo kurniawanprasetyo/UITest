@@ -10,8 +10,10 @@ WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Login Page/Username'), GlobalVariable.email_maker)
 
-WebUI.setText(findTestObject('Login Page/Password'), 'seomaker123')
+WebUI.setText(findTestObject('Login Page/Password'), 'SeoMaker123!')
 
 WebUI.click(findTestObject('Login Page/Sign In'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/Error_The login detail is incorrect'), 20)
+
+WebUI.closeBrowser()

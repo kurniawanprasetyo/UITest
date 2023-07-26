@@ -15,3 +15,5 @@ WebUI.setText(findTestObject('Login Page/Password'), GlobalVariable.pass_maker)
 WebUI.click(findTestObject('Login Page/Sign In'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/Error_The login detail is incorrect'), 20)
+
+WebUI.closeBrowser()

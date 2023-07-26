@@ -11,3 +11,5 @@ WebUI.maximizeWindow()
 WebUI.click(findTestObject('Login Page/Sign In'))
 
 WebUI.verifyElementPresent(findTestObject('Login Page/Error_Required field_Username'), 20)
+
+WebUI.closeBrowser()
